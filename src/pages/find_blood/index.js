@@ -43,9 +43,14 @@ function Index() {
               <MenuItem value="">
                 <em>None</em>
               </MenuItem>
-              <MenuItem value={10}>Ten</MenuItem>
-              <MenuItem value={20}>Twenty</MenuItem>
-              <MenuItem value={30}>Thirty</MenuItem>
+              <MenuItem value={10}>A+</MenuItem>
+              <MenuItem value={20}>B+</MenuItem>
+              <MenuItem value={30}>AB+</MenuItem>
+              <MenuItem value={30}>AB-</MenuItem>
+              <MenuItem value={30}>B-</MenuItem>
+              <MenuItem value={30}>A-</MenuItem>
+              <MenuItem value={30}>o+</MenuItem>
+              <MenuItem value={30}>o-</MenuItem>
             </Select>
           </FormControl>
           <FormControl fullWidth style={{ width: "45%", marginTop: "1rem" }}>
@@ -62,9 +67,31 @@ function Index() {
               <MenuItem value="">
                 <em>None</em>
               </MenuItem>
-              <MenuItem value={10}>Ten</MenuItem>
-              <MenuItem value={20}>Twenty</MenuItem>
-              <MenuItem value={30}>Thirty</MenuItem>
+              <MenuItem value={10}>Andra Pradesh</MenuItem>
+              <MenuItem value={20}>Arunachal Pradesh</MenuItem>
+              <MenuItem value={30}>Assam</MenuItem>
+              <MenuItem value={30}>Bihar</MenuItem>
+              <MenuItem value={30}>Chattisgarh</MenuItem>
+              <MenuItem value={30}>Goa</MenuItem>
+              <MenuItem value={30}>Gujrat</MenuItem>
+              <MenuItem value={30}>Haryana</MenuItem>
+              <MenuItem value={30}>Himachal</MenuItem>
+              <MenuItem value={30}>Jharkhand</MenuItem>
+              <MenuItem value={30}>Karnatka</MenuItem>
+              <MenuItem value={30}>Kerala</MenuItem>
+              <MenuItem value={30}>Maharastra</MenuItem>
+              <MenuItem value={30}>Manipur</MenuItem>
+              <MenuItem value={30}>Meghalya</MenuItem>
+              <MenuItem value={30}>Mizoram</MenuItem>
+              <MenuItem value={30}>Nagaland</MenuItem>
+              <MenuItem value={30}>Punjab</MenuItem>
+              <MenuItem value={30}>Rajasthan</MenuItem>
+              <MenuItem value={30}>Tamil Nadu</MenuItem>
+              <MenuItem value={30}>Kerala</MenuItem>
+              <MenuItem value={30}>Telangana</MenuItem>
+              <MenuItem value={30}>Uttrakahand</MenuItem>
+              <MenuItem value={30}>Uttar Pradesh</MenuItem>
+              <MenuItem value={30}>WestBengal</MenuItem>
             </Select>
           </FormControl>
           <FormControl fullWidth style={{ width: "45%", marginTop: "1rem" }}>
@@ -81,9 +108,27 @@ function Index() {
               <MenuItem value="">
                 <em>None</em>
               </MenuItem>
-              <MenuItem value={10}>Ten</MenuItem>
-              <MenuItem value={20}>Twenty</MenuItem>
-              <MenuItem value={30}>Thirty</MenuItem>
+              <MenuItem value={10}>Delhi</MenuItem>
+              <MenuItem value={10}>Aligarh</MenuItem>
+              <MenuItem value={20}>Agra</MenuItem>
+              <MenuItem value={30}>Allahbad</MenuItem>
+              <MenuItem value={30}>Amethi</MenuItem>
+              <MenuItem value={30}>Auraiya</MenuItem>
+              <MenuItem value={30}>Badaun</MenuItem>
+              <MenuItem value={30}>Banda</MenuItem>
+              <MenuItem value={30}>Bareily</MenuItem>
+              <MenuItem value={30}>Basti</MenuItem>
+              <MenuItem value={30}>Bijnor</MenuItem>
+              <MenuItem value={30}>Ghaziabad</MenuItem>
+              <MenuItem value={30}>Faridabad</MenuItem>
+              <MenuItem value={30}>Deoria</MenuItem>
+              <MenuItem value={30}>Ghazipur</MenuItem>
+              <MenuItem value={30}>Gonda</MenuItem>
+              <MenuItem value={30}>Hamirpur</MenuItem>
+              <MenuItem value={30}>Jaunpur</MenuItem>
+              <MenuItem value={30}>Jhansi</MenuItem>
+              <MenuItem value={30}>Gonda</MenuItem>
+              <MenuItem value={30}>Varansi</MenuItem>
             </Select>
           </FormControl>
         </div>
